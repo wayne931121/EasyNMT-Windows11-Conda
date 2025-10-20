@@ -35,4 +35,8 @@ python
 print(model.translate(sentences, target_lang="en",source_lang="zh"))
 ```
 
+My Device Info:
+- Windows 11
+- Conda
+
 
