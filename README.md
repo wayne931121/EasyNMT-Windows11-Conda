@@ -1,6 +1,6 @@
 First I use python 3.13 and failed, i see debug log, and second i use pytohn 3.12 and failed too, so I was angry there is two package need correct python version , third I use python 3.9. I think that all deep learn project need tell what python they use, or will be error build package. but error not only these, the easynmt script can not correct download model from network, so i need to use linux(colab) to download, them move to my computer... and set more modify some script config and I success run.
 
-Steps:
+# Steps:
 ```
 conda create --prefix C:\Users\TEST\fxt
 conda activate C:\Users\TEST\fxt
@@ -46,11 +46,11 @@ In above step, the setup.py:<br>
 https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/setup_afterModify.py#L25
 
 
-My Device Info:
+# My Device Info:
 - Windows 11
 - Conda
 
-Model:
+# Model:
 
 https://github.com/wayne931121/EasyNMT-Windows11-Conda/releases/tag/model
 
@@ -58,7 +58,7 @@ In windows you can not download model by eazynmt script ...idk api wtf error I n
 
 In windows is too complex, if you uncomfortable, only use in linux.
 
-LICENSE:
+# LICENSE:
 - all code: Apache License Version 2.0
 - this readme.md: Attribution 4.0 International, Copyright (c) 2025 wayne931121.
 
@@ -75,4 +75,9 @@ https://github.com/UKPLab/EasyNMT (official)
 # Reference
 
 https://github.com/UKPLab/EasyNMT/issues/44#issuecomment-908285722
+
+# My ENV
+
+https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/env.yml
+
 
