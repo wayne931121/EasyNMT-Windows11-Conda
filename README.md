@@ -38,6 +38,13 @@ My Device Info:
 - Windows 11
 - Conda
 
+Model:
+
+https://github.com/wayne931121/EasyNMT-Windows11-Conda/releases/tag/model
+
+In windows you can not download model by eazynmt script ...idk api wtf error I nerver see.. so download from colab
+
+In windows is too complex, if you uncomfortable, only use in linux.
 
 
 
