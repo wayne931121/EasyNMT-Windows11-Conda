@@ -27,16 +27,16 @@ modify setup.py
 python setup.py install
 pip install setuptools==80
 pip install packaging==21.3
-https://github.com/Helsinki-NLP/OPUS-MT-train/tree/master/models
 
 python
     from easynmt import EasyNMT
-    model = EasyNMT('opus-mt')
-print(model.translate(sentences, target_lang="en",source_lang="zh"))
+    model = EasyNMT(r"C:\Users\TEST\fxt\content\EasyNMT\get")
+print(model.translate("我好棒", target_lang="en",source_lang="zh"))
 ```
 
 My Device Info:
 - Windows 11
 - Conda
+
 
 
