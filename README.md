@@ -5,6 +5,7 @@ Steps:
 conda create --prefix C:\Users\TEST\fxt
 conda activate C:\Users\TEST\fxt
 conda install python=3.9
+
 pip install notebook
 pip install https://files.pythonhosted.org/packages/64/c5/ae6008631f67085c7189d1407abea468c80000657778af4d4039de0d893b/tokenizers-0.10.3-cp39-cp39-win_amd64.whl
 pip install transformers==4.4
@@ -13,18 +14,22 @@ pip install sentencepiece
 pip install protobuf
 pip install tqdm
 pip install https://files.pythonhosted.org/packages/4a/12/b37a1af2a5a09d9234877bc6e1403fae68adee43afc027fc6da7f576e15a/fasttext_wheel-0.9.2-cp39-cp39-win_amd64.whl
+
 #pls see guide:https://pytorch.org/get-started/locally/
 conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.1 -c pytorch -c nvidiacd C:\Users\TEST\fxt
 python
     import torch
     torch.cuda.is_available()
 	exit()
+
 mkdir content
 cd content
+
 git clone https://github.com/UKPLab/EasyNMT.git
 cd C:\Users\TEST\fxt\content\EasyNMT
 modify setup.py
 python setup.py install
+
 pip install setuptools==80
 pip install packaging==21.3
 
@@ -45,6 +50,7 @@ https://github.com/wayne931121/EasyNMT-Windows11-Conda/releases/tag/model
 In windows you can not download model by eazynmt script ...idk api wtf error I nerver see.. so download from colab
 
 In windows is too complex, if you uncomfortable, only use in linux.
+
 
 
 
