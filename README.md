@@ -63,7 +63,10 @@ LICENSE:
 - this readme.md: Attribution 4.0 International, Copyright (c) 2025 wayne931121.
 
 # Example (en to zh model)
+https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/fxt.bat<br>
+https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/test.py
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97a3c387-1a41-490b-ae4f-d8d618e6d3a5" />
+
 
 
 
