@@ -72,13 +72,6 @@ https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/test.py
 
 https://github.com/UKPLab/EasyNMT (official)
 
+# Reference
 
-
-
-
-
-
-
-
-
-
+https://github.com/UKPLab/EasyNMT/issues/44#issuecomment-908285722
