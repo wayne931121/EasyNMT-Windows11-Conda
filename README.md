@@ -51,6 +51,10 @@ In windows you can not download model by eazynmt script ...idk api wtf error I n
 
 In windows is too complex, if you uncomfortable, only use in linux.
 
+LICENSE:
+- all code: Apache License Version 2.0
+- this readme.md: Attribution 4.0 International, Copyright (c) 2025 wayne931121.
+
 
 
 
