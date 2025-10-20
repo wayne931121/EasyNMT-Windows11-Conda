@@ -29,14 +29,15 @@ pip install setuptools==80
 pip install packaging==21.3
 
 python
-    from easynmt import EasyNMT
-    model = EasyNMT(r"C:\Users\TEST\fxt\content\EasyNMT\get")
+from easynmt import EasyNMT
+model = EasyNMT(r"C:\Users\TEST\fxt\content\EasyNMT\get")
 print(model.translate("我好棒", target_lang="en",source_lang="zh"))
 ```
 
 My Device Info:
 - Windows 11
 - Conda
+
 
 
 
