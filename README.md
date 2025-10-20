@@ -34,6 +34,9 @@ pip install setuptools==80
 pip install packaging==21.3
 
 python
+import nltk
+nltk.download("punkt_tab")
+
 from easynmt import EasyNMT
 model = EasyNMT(r"C:\Users\TEST\fxt\content\EasyNMT\get")
 print(model.translate("我好棒", target_lang="en",source_lang="zh"))
@@ -58,6 +61,7 @@ In windows is too complex, if you uncomfortable, only use in linux.
 LICENSE:
 - all code: Apache License Version 2.0
 - this readme.md: Attribution 4.0 International, Copyright (c) 2025 wayne931121.
+
 
 
 
