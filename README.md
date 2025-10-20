@@ -1,4 +1,4 @@
-First I use python 3.13 and failed, i see debug log, and second i use pytohn 3.12 and failed too, so I was angry there is two package need correct python version , third I use python 3.9. I think that all deep learn project need tell what python they use, or will be error build package. but error not only these, the easynmt script can correct download model from network, so i need to use linux(colab) to download, them move to my computer... and set more modify some script config and I success run.
+First I use python 3.13 and failed, i see debug log, and second i use pytohn 3.12 and failed too, so I was angry there is two package need correct python version , third I use python 3.9. I think that all deep learn project need tell what python they use, or will be error build package. but error not only these, the easynmt script can not correct download model from network, so i need to use linux(colab) to download, them move to my computer... and set more modify some script config and I success run.
 
 Steps:
 ```
@@ -75,3 +75,4 @@ https://github.com/UKPLab/EasyNMT (official)
 # Reference
 
 https://github.com/UKPLab/EasyNMT/issues/44#issuecomment-908285722
+
