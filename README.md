@@ -62,6 +62,9 @@ LICENSE:
 - all code: Apache License Version 2.0
 - this readme.md: Attribution 4.0 International, Copyright (c) 2025 wayne931121.
 
+# Example (en to zh model)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97a3c387-1a41-490b-ae4f-d8d618e6d3a5" />
+
 
 
 
