@@ -39,6 +39,9 @@ model = EasyNMT(r"C:\Users\TEST\fxt\content\EasyNMT\get")
 print(model.translate("我好棒", target_lang="en",source_lang="zh"))
 ```
 
+In above step, th e setup.py: https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/setup_afterModify.py#L25
+
+
 My Device Info:
 - Windows 11
 - Conda
@@ -54,6 +57,7 @@ In windows is too complex, if you uncomfortable, only use in linux.
 LICENSE:
 - all code: Apache License Version 2.0
 - this readme.md: Attribution 4.0 International, Copyright (c) 2025 wayne931121.
+
 
 
 
