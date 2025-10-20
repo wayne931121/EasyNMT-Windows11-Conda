@@ -68,6 +68,12 @@ https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/test.py
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97a3c387-1a41-490b-ae4f-d8d618e6d3a5" />
 
 
+Forked from:
+
+https://github.com/UKPLab/EasyNMT (official)
+
+
+
 
 
 
