@@ -48,7 +48,7 @@ https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/setup_afterModi
 
 # My Device Info:
 - Windows 11
-- Conda
+- Miniforge Conda
 - CUDA 12.1 & 13.0 & 11.0
 
 # Model:
@@ -80,6 +80,7 @@ https://github.com/UKPLab/EasyNMT/issues/44#issuecomment-908285722
 # My ENV
 
 https://github.com/wayne931121/EasyNMT-Windows11-Conda/blob/main/env.yml
+
 
 
 
